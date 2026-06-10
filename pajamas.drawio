@@ -1,0 +1,177 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="jkz7CiMJqtrqNHuHficu">
+    <mxGraphModel dx="8432" dy="1650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ysLOfO5eLD0B1o5NdbBQ-218" edge="1" parent="1" source="ysLOfO5eLD0B1o5NdbBQ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ysLOfO5eLD0B1o5NdbBQ-217" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ysLOfO5eLD0B1o5NdbBQ-11" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=12;fontFamily=Helvetica;" value="But that interpretation seems unlikely, right? Humans are more likely than elephants to wear pajamas." vertex="1">
+          <mxGeometry height="120" width="329.87" x="1555.0600000000002" y="2290" as="geometry" />
+        </mxCell>
+        <mxCell id="ysLOfO5eLD0B1o5NdbBQ-15" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=12;fontFamily=Helvetica;" value="Try using context." vertex="1">
+          <mxGeometry height="54" width="188" x="1625.99" y="3020" as="geometry" />
+        </mxCell>
+        <mxCell id="ysLOfO5eLD0B1o5NdbBQ-16" parent="1" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=12;fontFamily=Helvetica;" value="Does prior context change the interpretation?" vertex="1">
+          <mxGeometry height="278" width="278" x="1579.75" y="3150" as="geometry" />
+        </mxCell>
+        <mxCell id="ysLOfO5eLD0B1o5NdbBQ-17" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=12;fontFamily=Helvetica;" value="Maybe the elephant reading becomes less absurd." vertex="1">
+          <mxGeometry height="102" width="260" x="1434.5" y="3606" as="geometry" />
+        </mxCell>
+        <mxCell id="ysLOfO5eLD0B1o5NdbBQ-18" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=12;fontFamily=Helvetica;" value="Now it&#39;s even more likely the human was wearing the pajamas" vertex="1">
+          <mxGeometry height="78" width="260" x="1744.5" y="3618" as="geometry" />
+        </mxCell>
+        <mxCell id="ysLOfO5eLD0B1o5NdbBQ-19" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=12;fontFamily=Helvetica;" value="Predict the next word? (LLM foreshadowing)" vertex="1">
+          <mxGeometry height="54" width="225" x="1606.5" y="3758" as="geometry" />
+        </mxCell>
+        <mxCell id="ysLOfO5eLD0B1o5NdbBQ-208" edge="1" parent="1" source="ysLOfO5eLD0B1o5NdbBQ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ysLOfO5eLD0B1o5NdbBQ-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ysLOfO5eLD0B1o5NdbBQ-20" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=12;fontFamily=Helvetica;" value="Now you are using world knowledge, context, and probability at once. Humans do this automatically. Getting machines to do this was a problem that researches tacked for 70 years. What we just did ws a speedrun." vertex="1">
+          <mxGeometry height="126" width="260" x="1589.5" y="3862" as="geometry" />
+        </mxCell>
+        <mxCell id="ysLOfO5eLD0B1o5NdbBQ-40" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=12;fontFamily=Helvetica;" value="Initially we started with a joke. But we end with a demonstration of why dealing with natural language computationally is hard." vertex="1">
+          <mxGeometry height="126" width="269" x="1584.25" y="4050" as="geometry" />
+        </mxCell>
+        <mxCell id="ysLOfO5eLD0B1o5NdbBQ-41" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=12;fontFamily=Helvetica;" value="Everything we just did? There is a name for it. Computational Linguistics (absolute cinema)." vertex="1">
+          <mxGeometry height="78" width="260" x="1588.75" y="4226" as="geometry" />
+        </mxCell>
+        <mxCell id="ysLOfO5eLD0B1o5NdbBQ-58" edge="1" parent="1" source="ysLOfO5eLD0B1o5NdbBQ-15" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=12;fontFamily=Helvetica;edgeStyle=orthogonalEdgeStyle;" target="ysLOfO5eLD0B1o5NdbBQ-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ysLOfO5eLD0B1o5NdbBQ-59" edge="1" parent="1" source="ysLOfO5eLD0B1o5NdbBQ-16" style="startArrow=none;endArrow=block;exitX=0.06;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=12;fontFamily=Helvetica;edgeStyle=orthogonalEdgeStyle;" target="ysLOfO5eLD0B1o5NdbBQ-17" value="Circus story">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ysLOfO5eLD0B1o5NdbBQ-60" edge="1" parent="1" source="ysLOfO5eLD0B1o5NdbBQ-16" style="startArrow=none;endArrow=block;exitX=0.94;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=12;fontFamily=Helvetica;edgeStyle=orthogonalEdgeStyle;" target="ysLOfO5eLD0B1o5NdbBQ-18" value="Bedtime story">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ysLOfO5eLD0B1o5NdbBQ-61" edge="1" parent="1" source="ysLOfO5eLD0B1o5NdbBQ-17" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.14;entryY=0;rounded=0;fontSize=12;fontFamily=Helvetica;edgeStyle=orthogonalEdgeStyle;" target="ysLOfO5eLD0B1o5NdbBQ-19" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ysLOfO5eLD0B1o5NdbBQ-62" edge="1" parent="1" source="ysLOfO5eLD0B1o5NdbBQ-18" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.86;entryY=0;rounded=0;fontSize=12;fontFamily=Helvetica;edgeStyle=orthogonalEdgeStyle;" target="ysLOfO5eLD0B1o5NdbBQ-19" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ysLOfO5eLD0B1o5NdbBQ-63" edge="1" parent="1" source="ysLOfO5eLD0B1o5NdbBQ-19" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=12;fontFamily=Helvetica;edgeStyle=orthogonalEdgeStyle;" target="ysLOfO5eLD0B1o5NdbBQ-20" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ysLOfO5eLD0B1o5NdbBQ-84" edge="1" parent="1" source="ysLOfO5eLD0B1o5NdbBQ-40" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=12;fontFamily=Helvetica;edgeStyle=orthogonalEdgeStyle;" target="ysLOfO5eLD0B1o5NdbBQ-41" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ysLOfO5eLD0B1o5NdbBQ-85" edge="1" parent="1" source="ysLOfO5eLD0B1o5NdbBQ-41" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;rounded=0;fontSize=12;fontFamily=Helvetica;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ysLOfO5eLD0B1o5NdbBQ-210" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1714.5" y="4360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ysLOfO5eLD0B1o5NdbBQ-87" parent="1" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=12;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=1.5;lucidId=1DQVGBmN_WpH;fontFamily=Helvetica;" value="Start" vertex="1">
+          <mxGeometry height="60" width="120" x="1667" y="415" as="geometry" />
+        </mxCell>
+        <mxCell id="ysLOfO5eLD0B1o5NdbBQ-88" parent="1" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=12;spacing=9;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=1.5;lucidId=gEQVz9ovSnBT;fontFamily=Helvetica;" value="I shot an elephant in my pajamas." vertex="1">
+          <mxGeometry height="105" width="180" x="1637" y="535" as="geometry" />
+        </mxCell>
+        <mxCell id="ysLOfO5eLD0B1o5NdbBQ-89" parent="1" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;rhombus;fontSize=12;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=1.5;lucidId=AEQVCQ9VSgBU;fontFamily=Helvetica;" value="Who was wearing the pajamas?" vertex="1">
+          <mxGeometry height="150" width="210" x="1622" y="685" as="geometry" />
+        </mxCell>
+        <mxCell id="ysLOfO5eLD0B1o5NdbBQ-90" parent="1" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=12;spacing=9;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=1.5;lucidId=XFQVgXweVsLO;fontFamily=Helvetica;" value="You have a creative mind! That&#39;s a very big pair of pajamas." vertex="1">
+          <mxGeometry height="135" width="180" x="2177" y="865" as="geometry" />
+        </mxCell>
+        <mxCell id="ysLOfO5eLD0B1o5NdbBQ-91" parent="1" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=12;spacing=9;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=1.5;lucidId=tGQVZ5B088ik;fontFamily=Helvetica;" value="Right. That would make more sense." vertex="1">
+          <mxGeometry height="105" width="165" x="1150" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="ysLOfO5eLD0B1o5NdbBQ-92" parent="1" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=12;spacing=9;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=1.5;lucidId=RGQVL6gtK4q9;fontFamily=Helvetica;" value="Syntactically, both interpretations were valid. Why then, do people prefer one interpretation over the other?" vertex="1">
+          <mxGeometry height="131" width="345" x="1547" y="1167" as="geometry" />
+        </mxCell>
+        <mxCell id="ysLOfO5eLD0B1o5NdbBQ-93" parent="1" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=display;fontSize=12;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=1.5;lucidId=pZQV.~f-jXpg;fontFamily=Helvetica;" value="Syntax representation of choice" vertex="1">
+          <mxGeometry height="90" width="195" x="1622" y="985" as="geometry" />
+        </mxCell>
+        <mxCell id="ysLOfO5eLD0B1o5NdbBQ-94" edge="1" parent="1" source="ysLOfO5eLD0B1o5NdbBQ-87" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=12;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1;exitPerimeter=0;entryX=0.5;entryY=0;entryPerimeter=0;lucidId=x1QVG3WVkGg4;fontFamily=Helvetica;" target="ysLOfO5eLD0B1o5NdbBQ-88" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ysLOfO5eLD0B1o5NdbBQ-95" edge="1" parent="1" source="ysLOfO5eLD0B1o5NdbBQ-88" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=12;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1;exitPerimeter=0;entryX=0.5;entryY=0;entryPerimeter=0;lucidId=B1QVhKfNTTNE;fontFamily=Helvetica;" target="ysLOfO5eLD0B1o5NdbBQ-89" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ysLOfO5eLD0B1o5NdbBQ-96" edge="1" parent="1" source="ysLOfO5eLD0B1o5NdbBQ-89" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=12;fontColor=#333333;fontStyle=1;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0;exitY=0.5;exitPerimeter=0;entryX=0.5;entryY=0;entryPerimeter=0;lucidId=L1QVZxyqM.Gb;fontFamily=Helvetica;" target="ysLOfO5eLD0B1o5NdbBQ-91" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ysLOfO5eLD0B1o5NdbBQ-97" parent="ysLOfO5eLD0B1o5NdbBQ-96" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontStyle=1;fontColor=#333333;fontSize=12;fontFamily=Helvetica;" value="I was" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ysLOfO5eLD0B1o5NdbBQ-98" edge="1" parent="1" source="ysLOfO5eLD0B1o5NdbBQ-89" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=12;fontColor=#333333;fontStyle=1;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1;exitY=0.5;exitPerimeter=0;entryX=0.5;entryY=0;entryPerimeter=0;lucidId=U1QV3r4DVVuZ;fontFamily=Helvetica;" target="ysLOfO5eLD0B1o5NdbBQ-90" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ysLOfO5eLD0B1o5NdbBQ-99" parent="ysLOfO5eLD0B1o5NdbBQ-98" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontStyle=1;fontColor=#333333;fontSize=12;fontFamily=Helvetica;" value="The elephant was" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ysLOfO5eLD0B1o5NdbBQ-100" edge="1" parent="1" source="ysLOfO5eLD0B1o5NdbBQ-90" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=12;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1;exitPerimeter=0;entryX=1;entryY=0.5;entryPerimeter=0;lucidId=b2QVydGLPQOJ;fontFamily=Helvetica;" target="ysLOfO5eLD0B1o5NdbBQ-93" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ysLOfO5eLD0B1o5NdbBQ-101" edge="1" parent="1" source="ysLOfO5eLD0B1o5NdbBQ-91" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=12;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1;exitPerimeter=0;entryX=0;entryY=0.5;entryPerimeter=0;lucidId=j2QVRjlrf8mw;fontFamily=Helvetica;" target="ysLOfO5eLD0B1o5NdbBQ-93" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ysLOfO5eLD0B1o5NdbBQ-102" edge="1" parent="1" source="ysLOfO5eLD0B1o5NdbBQ-93" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=12;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1;exitPerimeter=0;entryX=0.5;entryY=0;entryPerimeter=0;lucidId=52QVN.GwC9MX;fontFamily=Helvetica;" target="ysLOfO5eLD0B1o5NdbBQ-92" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ysLOfO5eLD0B1o5NdbBQ-103" parent="1" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontColor=default;align=left;spacing=3.8;strokeColor=none;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#1b1d1e;strokeWidth=0;lucidId=1kf5ZFxBt0gu;" value="%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20parent%3D%221%22%20style%3D%22whiteSpace%3Dwrap%3BstrokeWidth%3D2%3BfillColor%3Dlight-dark(%23eeeeee%2C%231f2020)%3BstrokeColor%3Dlight-dark(%23999999%2C%23cccccc)%3BfontColor%3Dlight-dark(%23333333%2C%23cccccc)%3B%22%20value%3D%22Try%20to%20write%20a%20rule%20for%20your%20intuition.%22%20vertex%3D%221%22%3E%3CmxGeometry%20height%3D%2278%22%20width%3D%22260%22%20x%3D%22175%22%20y%3D%22845%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20parent%3D%221%22%20style%3D%22whiteSpace%3Dwrap%3BstrokeWidth%3D2%3BfillColor%3Dlight-dark(%23eeeeee%2C%231f2020)%3BstrokeColor%3Dlight-dark(%23999999%2C%23cccccc)%3BfontColor%3Dlight-dark(%23333333%2C%23cccccc)%3B%22%20value%3D%22Rule%20attempt%3A%20clothing%20is%20usually%20worn%20by%20humans.%22%20vertex%3D%221%22%3E%3CmxGeometry%20height%3D%2278%22%20width%3D%22260%22%20x%3D%22175%22%20y%3D%22973%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%224%22%20edge%3D%221%22%20parent%3D%221%22%20style%3D%22curved%3D1%3BstartArrow%3Dnone%3BendArrow%3Dblock%3BexitX%3D0.5%3BexitY%3D1%3BentryX%3D0.5%3BentryY%3D0%3Brounded%3D0%3B%22%20target%3D%222%22%20value%3D%22%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CArray%20as%3D%22points%22%2F%3E%3CmxPoint%20x%3D%22305%22%20y%3D%22795%22%20as%3D%22sourcePoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%225%22%20edge%3D%221%22%20parent%3D%221%22%20source%3D%222%22%20style%3D%22curved%3D1%3BstartArrow%3Dnone%3BendArrow%3Dblock%3BexitX%3D0.5%3BexitY%3D1%3BentryX%3D0.5%3BentryY%3D0%3Brounded%3D0%3B%22%20target%3D%223%22%20value%3D%22%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CArray%20as%3D%22points%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E" vertex="1">
+          <mxGeometry height="23" width="15232" x="-6180" y="262" as="geometry" />
+        </mxCell>
+        <mxCell id="ysLOfO5eLD0B1o5NdbBQ-104" edge="1" parent="1" source="ysLOfO5eLD0B1o5NdbBQ-92" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=12;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1;exitPerimeter=0;entryX=0.5;entryY=0;entryPerimeter=0;lucidId=vlf5zTt~EEMp;fontFamily=Helvetica;" target="ysLOfO5eLD0B1o5NdbBQ-105" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ysLOfO5eLD0B1o5NdbBQ-105" parent="1" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=12;spacing=9;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=1.5;lucidId=wlf55kgQeefI;fontFamily=Helvetica;align=center;" value="&lt;p class=&quot;p1&quot; style=&quot;caret-color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Suppose we wanted a computer to make the same choice.&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;caret-color: rgb(0, 0, 0);&quot;&gt;How could we explain our reasoning to it?&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="131" width="345" x="1547" y="1390" as="geometry" />
+        </mxCell>
+        <mxCell id="ysLOfO5eLD0B1o5NdbBQ-106" edge="1" parent="1" source="ysLOfO5eLD0B1o5NdbBQ-105" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=12;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1;exitPerimeter=0;entryX=0.5;entryY=0;entryPerimeter=0;lucidId=4lf5hOfEBow8;fontFamily=Helvetica;" target="ysLOfO5eLD0B1o5NdbBQ-107" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ysLOfO5eLD0B1o5NdbBQ-107" parent="1" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=12;spacing=9;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=1.5;lucidId=5lf5quIPl~Lw;fontFamily=Helvetica;" value="Clothing is usually worn by humans. " vertex="1">
+          <mxGeometry height="131" width="345" x="1547" y="1600" as="geometry" />
+        </mxCell>
+        <mxCell id="ysLOfO5eLD0B1o5NdbBQ-108" edge="1" parent="1" source="ysLOfO5eLD0B1o5NdbBQ-107" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=12;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1;exitPerimeter=0;entryX=0.5;entryY=0;entryPerimeter=0;lucidId=Rmf541nWcQBN;fontFamily=Helvetica;" target="ysLOfO5eLD0B1o5NdbBQ-109" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ysLOfO5eLD0B1o5NdbBQ-109" parent="1" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;rhombus;fontSize=12;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=1.5;lucidId=Smf53iw5ZHFc;fontFamily=Helvetica;" value="Does this rule always work?" vertex="1">
+          <mxGeometry height="150" width="203" x="1618" y="1810" as="geometry" />
+        </mxCell>
+        <mxCell id="ysLOfO5eLD0B1o5NdbBQ-110" edge="1" parent="1" source="ysLOfO5eLD0B1o5NdbBQ-109" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=12;fontColor=#333333;fontStyle=1;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1;exitPerimeter=0;entryX=0.5;entryY=0;entryPerimeter=0;lucidId=avf5S3SjBvQR;fontFamily=Helvetica;" target="ysLOfO5eLD0B1o5NdbBQ-112" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ysLOfO5eLD0B1o5NdbBQ-111" parent="ysLOfO5eLD0B1o5NdbBQ-110" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontStyle=1;fontColor=#333333;fontSize=12;fontFamily=Helvetica;" value="No" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ysLOfO5eLD0B1o5NdbBQ-115" edge="1" parent="1" source="ysLOfO5eLD0B1o5NdbBQ-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;fontFamily=Helvetica;" target="ysLOfO5eLD0B1o5NdbBQ-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ysLOfO5eLD0B1o5NdbBQ-112" parent="1" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=12;spacing=9;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=1.5;lucidId=bvf5HoQxF-~C;fontFamily=Helvetica;" value="Counterexample: a toy elephant  can wear pajamas." vertex="1">
+          <mxGeometry height="150" width="278" x="1581" y="2050" as="geometry" />
+        </mxCell>
+        <mxCell id="ysLOfO5eLD0B1o5NdbBQ-209" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=12;fontFamily=Helvetica;" value="End" vertex="1">
+          <mxGeometry height="39" width="51" x="1693.25" y="4470" as="geometry" />
+        </mxCell>
+        <mxCell id="ysLOfO5eLD0B1o5NdbBQ-212" edge="1" parent="1" source="ysLOfO5eLD0B1o5NdbBQ-210" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ysLOfO5eLD0B1o5NdbBQ-209">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ysLOfO5eLD0B1o5NdbBQ-210" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=12;fontFamily=Helvetica;" value="Brought to you by the students of UTMCLS&#xa;See more: " vertex="1">
+          <mxGeometry height="78" width="260" x="1589.5" y="4350" as="geometry" />
+        </mxCell>
+        <mxCell id="ysLOfO5eLD0B1o5NdbBQ-220" edge="1" parent="1" source="ysLOfO5eLD0B1o5NdbBQ-217" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ysLOfO5eLD0B1o5NdbBQ-219">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ysLOfO5eLD0B1o5NdbBQ-217" parent="1" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" value="Where do these probabilities come from?" vertex="1">
+          <mxGeometry height="120" width="245" x="1597.5" y="2510" as="geometry" />
+        </mxCell>
+        <mxCell id="ysLOfO5eLD0B1o5NdbBQ-227" edge="1" parent="1" source="ysLOfO5eLD0B1o5NdbBQ-219" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" target="ysLOfO5eLD0B1o5NdbBQ-226" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ysLOfO5eLD0B1o5NdbBQ-219" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=12;fontFamily=Helvetica;" value="it&#39;s reasonable to think that if it&#39;s more likely for humans wearing pajamas, they will co-occur in text more often. Use counts from a sample corpora of text." vertex="1">
+          <mxGeometry height="140" width="267.5" x="1586.25" y="2700" as="geometry" />
+        </mxCell>
+        <mxCell id="ysLOfO5eLD0B1o5NdbBQ-228" edge="1" parent="1" source="ysLOfO5eLD0B1o5NdbBQ-226" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" target="ysLOfO5eLD0B1o5NdbBQ-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ysLOfO5eLD0B1o5NdbBQ-226" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;" value="&lt;i&gt;Motivation of vectorization&lt;/i&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="1660" y="2910" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
